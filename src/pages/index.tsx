@@ -72,12 +72,12 @@ export default function IndexPage({
               ))}
             </div>
             {/* Thank you for not removing this as an attribution 🙏 */}
-            <p className='mt-10 text-gray-300'>
+           /* <p className='mt-10 text-gray-300'>
               Built using{' '}
               <UnderlineLink href='https://github.com/theodorusclarence/notiolink'>
                 <Accent>Notiolink</Accent>
               </UnderlineLink>
-            </p>
+            </p> */
           </div>
         </section>
       </main>
